@@ -1,0 +1,8 @@
+- A user can upload a document
+- The Agent can read the document
+- The Agent can communicate to the user if there is a problem
+- The Agent can place the correct data in the appropriate field
+- The user can edit form fields
+- The user can submit the form
+- The user can see a list of submitted documents/forms
+- Preserves AI values separately from human corrections (Audit Log)
